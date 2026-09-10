@@ -46,6 +46,26 @@ MonoBehaviour:
     m_Localized: Settings
     m_Metadata:
       m_Items: []
+  - m_Id: 2181195180793856
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181415331422208
+    m_Localized: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181468393562112
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181530100162560
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181642146799616
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

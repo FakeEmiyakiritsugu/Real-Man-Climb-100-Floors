@@ -43,6 +43,26 @@ MonoBehaviour:
     m_Key: Game_Settings
     m_Metadata:
       m_Items: []
+  - m_Id: 2181195180793856
+    m_Key: Audio_Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181415331422208
+    m_Key: Gameplay_Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181468393562112
+    m_Key: Controls_Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181530100162560
+    m_Key: Language_Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2181642146799616
+    m_Key: Video_Setting
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
